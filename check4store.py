@@ -15,6 +15,7 @@
 #
 # Used resources: 
 # https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
+# https://automatetheboringstuff.com/chapter11/
 # 
 # Author: Alex Skrenchuk
 # version: 1

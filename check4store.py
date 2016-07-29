@@ -13,6 +13,8 @@
 # Need to set BOT_ID and SLACK_BOT_TOKEN environment variable before running script
 # Script is usually run with cron
 #
+# check4store.py -h example4store.domain -r exampleredis.domain -v
+#
 # Used resources: 
 # https://www.fullstackpython.com/blog/build-first-slack-bot-python.html
 # https://automatetheboringstuff.com/chapter11/
